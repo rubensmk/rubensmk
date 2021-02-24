@@ -11,7 +11,8 @@
  <br/> :blush: &nbsp; Mesmo sendo iniciante posso te ajudar e podemos conversar sobre o mundo dev
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games como CS:GO, Valorant, alguns animes e séries.
- <br/> 📩 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RubensKishimoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubens-kishimoto/)](https://www.linkedin.com/in/rubens-kishiomoto/) 
+ <br/> 📩 &nbsp; Entre em contato comigo:
+[![Linkedin Badge](https://img.shields.io/badge/-RubensKishimoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubens-kishimoto/)](https://www.linkedin.com/in/rubens-kishimoto/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rubenskishimoto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubenskishimoto@gmail.com)](mailto:rubenskishimoto@gmail.com)
 
