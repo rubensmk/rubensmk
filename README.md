@@ -1,4 +1,3 @@
-<img width="auto" src="https://github.com/">
 
 
 # Rubens Mititaka Kishimoto
