@@ -8,7 +8,7 @@
  
  ![rubensmk github stats](https://github-readme-stats.vercel.app/api?username=rubensmk&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensmk&layout=compact&theme=vue-dark)](https://github.com/rubensmk/github-readme-stats)
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e React Native
  <br/> :blush: &nbsp; Mesmo sendo iniciante posso te ajudar e podemos conversar sobre o mundo dev
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games como CS:GO, Valorant, alguns animes e séries.
