@@ -7,8 +7,8 @@
  <br/> :books: Studying more about Ruby on Rails.
  <br/> :rocket:  I'm always looking for new challenges and opportunities that provide learning and growth in my career.
  
- ![rubensmk github stats](https://github-readme-stats.vercel.app/api?username=rubensmk&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensmk&layout=compact&theme=vue-dark)](https://github.com/rubensmk/github-readme-stats)
+ ![rubensmk github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rubensmk&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rubensmk&layout=compact&theme=vue-dark)](https://github.com/rubensmk/github-readme-stats)
 <br/> 🔗 &nbsp; My Website: https://www.rubenskishimoto.dev/
  <br/> :purple_heart: &nbsp; Programming Languages: Javascript/Typescript and Ruby.
  <br/> :computer: &nbsp; My Stack: ReactJS, NextJS, Node.js Express, React Native (CLI and Expo) and Ruby on Rails.
