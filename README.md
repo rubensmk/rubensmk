@@ -2,7 +2,7 @@
 
 # Rubens Mititaka Kishimoto
 
- <br/> :computer: Software Engineer (Frontend)
+ <br/> :computer: Software Engineer
  <br/> 👨‍💻 Currently working with technologies like ReactJS, NextJS, React Native and Ruby on Rails. 
  <br/> :books: Studying more about Ruby on Rails.
  <br/> :rocket:  I'm always looking for new challenges and opportunities that provide learning and growth in my career.
