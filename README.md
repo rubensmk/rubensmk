@@ -4,7 +4,7 @@
 
  <br/> :computer: Software Engineer
  <br/> 👨‍💻 Currently working with technologies like ReactJS, NextJS, React Native and Ruby on Rails. 
- <br/> :books: Studying more about Ruby on Rails.
+ <br/> :books: Studying more and more.
  <br/> :rocket:  I'm always looking for new challenges and opportunities that provide learning and growth in my career.
  
  ![rubensmk github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rubensmk&show_icons=true&theme=vue-dark)
